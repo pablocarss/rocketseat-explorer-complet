@@ -16,8 +16,6 @@ O código sofreu algumas alterações e ele não está mais da mesma forma que o
 
 </div>
 <h2 align="center"> Para fazer o desafio usei 👇</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 
 <div align="center">
 
