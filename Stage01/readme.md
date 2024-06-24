@@ -24,6 +24,6 @@
 🛠 Desenvolvedor <br>
 📍 Mogi das Cruzes - Brasil
 
-<a href="https://github.com/pablocarss" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;</a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" title="wyth7" alt="Discord Badge" height="25"></a>&nbsp;<a href="https://github.com/pablocarss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
+<a href="https://github.com/pablocarss" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;</a>&nbsp;<a href="https://github.com/pablocarss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
 
 <br clear="left"/>
